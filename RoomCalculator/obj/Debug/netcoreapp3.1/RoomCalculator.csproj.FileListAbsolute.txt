@@ -1,0 +1,14 @@
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.exe
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.deps.json
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.json
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.dev.json
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csproj.AssemblyReference.cache
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfo.cs
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\ZParr\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.genruntimeconfig.cache
